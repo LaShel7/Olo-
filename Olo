@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An ordered HTML list</h2>
+
+<ol>
+  <li>List the topppings for each popular pizza toppings combinations</li>
+  <li>Ranks</li>
+  <li>Number of times each combination has been ordered</li>
+</ol>  
+
+</body>
+</html>
